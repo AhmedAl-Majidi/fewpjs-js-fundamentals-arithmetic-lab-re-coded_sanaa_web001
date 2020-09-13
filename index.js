@@ -1,1 +1,1 @@
-let multiply = 62;
+let multiply = num1 * num2;
